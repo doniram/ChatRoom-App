@@ -1,6 +1,6 @@
 # 💬 ChatRoom — Real-Time Chat App
 
-Chat real-time berbasis web dengan fitur upload foto dan room yang bertahan 24 jam.
+Chat real-time berbasis web dengan fitur upload foto dan dokumen.
 
 ## 🚀 Cara Menjalankan
 
